@@ -1,7 +1,6 @@
 #include<stdio.h>
 int max[10][10],alloc[10][10],need[10][10],avail[10],i,j,p,r,finish[10]={0},flag=0;
-main( )
-{
+main( ){
 printf("\n SIMULATION OF DEADLOCK PREVENTION \n ");
 printf("Enter no. of processes, resources\n ");
 scanf("%d%d",&p,&r);
