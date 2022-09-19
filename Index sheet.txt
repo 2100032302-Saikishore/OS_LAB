@@ -1,0 +1,27 @@
+INDEX SHEETS
+
+W2 Q1 => Print first 10 charecters excluding numbers
+W2 Q2 => rand.h
+
+
+W3 Q1 => Unix os calls(fork, exec, getpid)
+W3 Q2 => os calls(open dir, read dir)
+W3 Q3 => song.txt
+
+
+W4 Q1 => FCFS
+W4 Q2 => SJF
+W4 Q3 => Round robin
+W4 Q4 => Priority process scheduling algorithm
+
+
+W5 Q1 => Memory Fixed Partitioning (MFT)
+W5 Q2 => Memory Variable Partitioning (MVT)
+
+
+W6 Q1 => Best fit, First fit, Worst fit
+W6 Q2 => Paging for memory management
+
+
+W7 Q1 => FIFO
+W7 Q2 => LRU
