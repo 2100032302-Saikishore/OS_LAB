@@ -1,0 +1,24 @@
+//rand.h
+
+#include<stdlib.h>
+int ownrand(){
+return rand()%10;
+}
+
+
+
+
+//program.c
+#include<stdio.h>
+#include<time.h>
+#include"rand.h"
+int main(){
+srand(time(0));
+int i;
+FILE *fptr=fopen("random.txt","w");
+for( i=0;i<10;++i){
+fprintf(fptr,"%d",ownrand()%10);
+fprintf(fptr,"\n");
+}
+return 0;
+}
