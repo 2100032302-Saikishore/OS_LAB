@@ -25,3 +25,7 @@ W6 Q2 => Paging for memory management
 
 W7 Q1 => FIFO
 W7 Q2 => LRU
+
+
+
+W10 Q1 => FCFS Disk scheduling
