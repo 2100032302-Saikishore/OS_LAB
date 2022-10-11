@@ -28,6 +28,10 @@ W7 Q2 => LRU
 
 
 
+w9 Q1 => producer-consumer problem
+w9 Q2 => Dining - philosophers problem
+
+
 W10 Q1 => FCFS Disk scheduling
 
 w11 Q1 => IPC using shared memory
