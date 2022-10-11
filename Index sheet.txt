@@ -29,3 +29,5 @@ W7 Q2 => LRU
 
 
 W10 Q1 => FCFS Disk scheduling
+
+w11 Q1 => IPC using shared memory
