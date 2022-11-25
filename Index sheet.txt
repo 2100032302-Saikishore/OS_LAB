@@ -26,6 +26,8 @@ W6 Q2 => Paging for memory management
 W7 Q1 => FIFO
 W7 Q2 => LRU
 
+w8 Q1 => Bankers algo- Deadlock avoidance
+w8 Q2 => Bankers algo- Deadlock prevention
 
 
 w9 Q1 => producer-consumer problem
