@@ -39,3 +39,6 @@ w10 Q2 => SCAN Disk Scheduling
 
 w11 Q1 => IPC using shared memory
 w11 Q2 => Threading and synchronisation applications
+
+w12 Q1 => File using single level directory
+w12 Q2 => File using two level directory
