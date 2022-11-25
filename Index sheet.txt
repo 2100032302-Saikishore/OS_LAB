@@ -35,6 +35,7 @@ w9 Q2 => Dining - philosophers problem
 
 
 W10 Q1 => FCFS Disk scheduling
+w10 Q2 => SCAN Disk Scheduling
 
 w11 Q1 => IPC using shared memory
 w11 Q2 => Threading and synchronisation applications
